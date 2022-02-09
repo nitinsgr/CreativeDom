@@ -1,0 +1,74 @@
+@import url('../public/fonts/Panchang/stylesheet.css');
+@import url('~video-react/dist/video-react.css');
+@import url('../public/fonts/Gangster/stylesheet.css');
+@import url('../public/fonts/NeueMachina/stylesheet.css');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer utilities {
+  @variants responsive {
+      .masonry {
+          column-gap: 1.5em;
+          column-count: 1;
+      }
+      .masonry-sm {
+          column-gap: 1.5em;
+          column-count: 2;
+      }
+      .masonry-md {
+          column-gap: 1.5em;
+          column-count: 3;
+      }
+      .break-inside {
+          break-inside: avoid;
+      }
+
+  }
+}
+
+@layer base {
+
+}
+
+@layer components{
+  .keyword{
+    position: fixed;
+  top: 0;
+  left: 250vw;
+  font-size: 16rem;
+  width: 10000px;
+  font-weight: 400;
+  }
+
+  .header {
+    background-color : yellow;
+  }
+
+  .active{
+    background-color : red;
+  }
+
+
+  .c-direction-block_item {
+    position: absolute;
+    font-size: 10vw;
+    white-space: nowrap;
+    text-transform: uppercase;
+    line-height: 1;
+  }
+
+  .c-direction-block {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1;
+  }
+
+  
+
+}
+
+

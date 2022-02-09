@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Bold.woff2') format('woff2'),
+        url('GangsterGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Light.woff2') format('woff2'),
+        url('GangsterGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gangster Grotesk';
+    src: url('GangsterGrotesk-Regular.woff2') format('woff2'),
+        url('GangsterGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

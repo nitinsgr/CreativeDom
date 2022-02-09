@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'false';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang Bold';
+    src: url('Panchang-Bold.woff2') format('woff2'),
+        url('Panchang-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang ExtraBold';
+    src: url('Panchang-Extrabold.woff2') format('woff2'),
+        url('Panchang-Extrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang Extralight';
+    src: url('Panchang-Extralight.woff2') format('woff2'),
+        url('Panchang-Extralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang light';
+    src: url('Panchang-Light.woff2') format('woff2'),
+        url('Panchang-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang Medium';
+    src: url('Panchang-Medium.woff2') format('woff2'),
+        url('Panchang-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang Semi';
+    src: url('Panchang-Semibold.woff2') format('woff2'),
+        url('Panchang-Semibold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('false.woff2') format('woff2'),
+        url('false.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panchang';
+    src: url('Panchang-Regular.woff2') format('woff2'),
+        url('Panchang-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

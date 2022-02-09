@@ -1,0 +1,41 @@
+{
+  "name": "dafolio_creatives",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "custom-cursor-react": "^1.0.5",
+    "gsap": "^3.9.1",
+    "locomotive-scroll": "^4.1.3",
+    "next": "^12.0.11-canary.10",
+    "postcss": "^8.4.5",
+    "react": "17.0.2",
+    "react-cursor": "^2.0.15",
+    "react-dom": "17.0.2",
+    "react-fast-marquee": "^1.3.1",
+    "react-gsap": "^3.2.1",
+    "react-hover-image": "^2.0.1",
+    "react-locomotive-scroll": "^0.2.0",
+    "react-marquee": "^1.0.0",
+    "react-player": "^2.9.0",
+    "react-responsive-masonry": "^2.1.4",
+    "react-scroll": "^1.8.4",
+    "react-smooth-scrolling": "^1.0.2",
+    "react-sticky-header": "^0.2.0",
+    "tailwindcss": "^3.0.18",
+    "video-react": "^0.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.9",
+    "nodemon": "^2.0.15"
+  }
+}
