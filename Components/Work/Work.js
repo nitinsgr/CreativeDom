@@ -18,9 +18,9 @@ export const getStaticProps = async () => {
 const Work = ({ projectList}) => {
   return (
     <div >
-      <div className='p-5 pt-32 md:pb-20 md:mb-20'>
+      <div className='pt-20 pb-20'>
         <Marquee className=' overflow-hidden' gradient={false} speed={100} pauseOnHover={true}>
-        <h1 className='text-3xl md:text-11xl text-black leading-none font-Neue border-t-4 border-analogColor-0 bg-analogColor-0 border-b-4'>MEET THE ARTISTS</h1>
+        <h1 className='text-3xl md:text-10xl text-black leading-none font-Neue border-t-4 border-analogColor-0 bg-analogColor-0 border-b-4'>MEET THE ARTISTS <span>MEET THE ARTIST</span></h1>
         </Marquee>
        
       </div>

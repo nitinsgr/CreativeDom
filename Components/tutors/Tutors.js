@@ -8,20 +8,20 @@ const Tutors = () => {
 
   return (
     <div>
-      <div className='pt-20 font-Neue'>
+       <div className='pt-20 font-Neue'>
         <Marquee className=' overflow-hidden' gradient={false} speed={20}>
-        <h1 className='text-11xl text-black leading-none border-t-4  border-analogColor-0 border-b-4 bg-analogColor-0 '>LEARN FROM TUTORS </h1>
+        <h1 className='text-7xl md:text-10xl text-black leading-none border-t-4  border-analogColor-0 border-b-4 bg-analogColor-0 '>LEARN FROM TUTORS </h1>
         </Marquee>
-        <div className='p-20 grid grid-cols-2 gap-52'>
-          <div> 
-          <ReactPlayer url='https://www.youtube.com/watch?v=0CDd22s3jec&t=68s' height={500} width={800}   muted={true} controls={true} loop={true}  /> 
+        <div className='grid grid-cols-2 grid-flow-row m-20'>
+          <div  className='pl-2 pr-2 hidden md:block'> 
+          <ReactPlayer url='https://www.youtube.com/watch?v=0CDd22s3jec&t=68s'  muted={true}  height={500} width={800}   controls={true} loop={true}  /> 
           </div>
-          <div>
+          <div className=' hidden md:block'>
           <ReactPlayer url='https://www.youtube.com/watch?v=1vuXskHlm_g' height={500} width={800}  muted={true} controls={true} loop={true}  /> 
           </div>
       
         </div>
-      </div>
+      </div> 
     </div>
   )
 };

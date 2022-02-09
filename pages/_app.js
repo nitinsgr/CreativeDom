@@ -15,16 +15,10 @@ function MyApp({ Component, pageProps }) {
         smooth: true,
         multiplier : 0.4,
         lerp : 0.1,
-        offset: [30, 50],
         repeat: false,
         scrollFromAnywhere : true,
         direction: 'vertical', // or horizontal
         class: 'is-inview',
-        initClass: 'has-scroll-init',
-        scrollbarClass: 'c-scrollbar',
-        scrollingClass: 'has-scroll-scrolling',
-        draggingClass: 'has-scroll-dragging',
-        smoothClass: 'has-scroll-smooth',
         scrollbarContainer: false,
         // ... all available Locomotive Scroll instance options 
       }
@@ -38,7 +32,7 @@ function MyApp({ Component, pageProps }) {
     }
     containerRef={containerRef}
   >
-    <main className=' has-scroll-smooth' data-scroll-container  data-scroll-offset="200"  data-load-container data-scroll-direction="horizontal" ref={containerRef}>
+    <main data-scroll-container data-scroll-direction="horizontal">
     <Component {...pageProps} />
     </main>
   </RLSProvider>
